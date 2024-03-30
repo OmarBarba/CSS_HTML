@@ -1,12 +1,18 @@
-/* SELECOTRES */
-span {
+/* con coma se carga de izquiuerda a derecha hasta que encuentre una */
+p{
     color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    /*font weight DEFINE EL GRUESO */
+    font-weight: 700;
+    font-style: italic;
+    text-align: justify;
 }
-.faltante {
-    color: blueviolet;
+span{
+    
+    text-decoration: overline  underline;
 }
-/* selector por id */
-
-#secreto{
-    color: chartreuse;
+h1	{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
